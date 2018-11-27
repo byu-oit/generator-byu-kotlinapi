@@ -1,0 +1,15 @@
+{
+    "name": "@byu-oit/generator-byu-kotlinapi",
+    "version": "0.0.1",
+    "description": "Yeoman generator for creating a BYU Kotlin API",
+    "files": [
+        "generators"
+    ],
+    "keywords": [
+        "yeoman-generator"
+    ],
+    "dependencies": {
+        "chalk": "^2.4.1",
+        "yeoman-generator": "^3.1.1"
+    }
+}
